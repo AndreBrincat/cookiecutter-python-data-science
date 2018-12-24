@@ -18,3 +18,6 @@ on [Cookiecutter Data Science](http://drivendata.github.io/cookiecutter-data-sci
 ```bash
 $ cookiecutter gh:mganjoo/cookiecutter-python-data-science
 ```
+
+Customize the Conda `environment.yml` file, and install environment
+and local packages using instructions in project `README.md`.
