@@ -18,7 +18,7 @@ After packages are installed, you can activate the environment, and install
 the "local" package corresponding to the Python module in `src/`
 
 ```bash
-$ source activate `{{cookiecutter.conda_environment}}`
+$ source activate {{cookiecutter.conda_environment}}
 $ pip install -e .
 ```
 
