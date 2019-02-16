@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *.so
 
+# Egg info
+*.egg-info
+
 # DotEnv
 .env
 
