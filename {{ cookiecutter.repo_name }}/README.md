@@ -14,12 +14,10 @@ Create the environment:
 $ conda env create -f environment.yml
 ```
 
-After packages are installed, you can activate the environment, and install
-the "local" package corresponding to the Python module in `src/`
+After packages are installed, you can activate the environment.
 
 ```bash
-$ source activate {{cookiecutter.conda_environment}}
-$ pip install -e .
+$ conda activate {{cookiecutter.conda_environment}}
 ```
 
 ---
