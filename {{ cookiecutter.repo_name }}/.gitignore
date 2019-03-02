@@ -9,6 +9,9 @@ __pycache__/
 # DotEnv
 .env
 
+# Log files
+/logs/
+
 # Spyder
 .spyproject/
 
